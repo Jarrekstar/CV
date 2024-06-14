@@ -3,7 +3,7 @@ Budapest area, Hungary
 
 ---
 
-## Profile
+## PROFILE
 
 Results-driven Software Engineering Team Lead with over **12 years** of hands-on experience specializing in the development and management of complex Manufacturing Execution Systems (MES) and ERP solutions.
 
