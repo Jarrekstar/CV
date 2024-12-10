@@ -1,151 +1,150 @@
 # Zoltán Patyi
-Budapest area, Hungary
+
+Budapest area, Hungary | Phone: +36 (70) 376-8901 | Email: zoltan.patyi.89@gmail.com | LinkedIn: linkedin.com/in/zoltán-patyi-0b029248/
 
 ---
 
-## PROFILE
+## Profile
 
-Results-driven Software Engineering Team Lead with over **12 years** of hands-on experience specializing in the development and management of complex Manufacturing Execution Systems (MES) and ERP solutions.
+Results-driven **Software Engineering Team Lead** with **12+ years** of experience leading teams and delivering innovative solutions for Manufacturing Execution Systems (MES), ERP, and cloud-based applications. Proven ability to manage cross-functional teams, translate business needs into technical solutions, and implement cutting-edge technologies in global enterprise environments.
 
-# WORK EXPERIENCE    
+---
 
-## March 2023 – ongoing 
-### Software Engineering Team Lead – AGCO Hungary Kft.   
+## WORK EXPERIENCE    
 
-Leading a team of 4 developers to support MES systems for 2 Finnish factories with regular developments and releases.
+### Software Engineering Team Lead  
+**AGCO Hungary Kft.**  
+*March 2023 – Present*
 
-#### Daily Duties and Tasks:
-- Contacting stakeholders
-- Translating business needs to technical requirements
-- Creating software specifications
-- Deciding on software architecture for new requirements
-- Mentoring developers
-- Handling complex back-end developments
-- Innovating/researching new technologies and creating POCs
-- Managing Azure DevOps pipelines
+Lead a team of 4-6 developers to deliver and maintain MES systems for global factories. Oversee architecture decisions, development processes, and stakeholder communication to ensure timely delivery of scalable solutions.
+
+#### Responsibilities:
+- Design and deliver cloud-ready solutions leveraging **.NET 8**, **Docker**, and **RabbitMQ**.
+- Collaborate with product management to define and prioritize feature development.
+- Mentor developers to foster technical growth and team cohesion.
+- Manage **Azure DevOps pipelines** for CI/CD and automate deployment processes.
 
 #### Key Achievements:
+- Implemented a **greenfield MES system** for a new factory hall, integrating machine dashboards with React front-end and RabbitMQ.
+- Integrated new shopfloor systems, including AGVs, carousels, and AMRs.
+- Conducted POCs with **Rust** and **Go** to evaluate potential for high-performance applications.
 
-- **Greenfield Implementation of MES for New Transmission Factory Hall:** Successfully implemented a new MES system with machine integration and management dashboards using **.NET 8 with RabbitMQ, Docker, and React frontend**.
-- **Integration of New PaintShop Area:** Integrated the new PaintShop area into the existing MES system.
-- **Integration of Existing AGV System:** Incorporated the existing AGV system into the MES.
-- **Team Building:** Built the development team from the ground up.
-- **Rust and Go POCs:** Created proof-of-concept projects using **Rust** and **Go** to evaluate their suitability for our use cases.
+---
+
+### Lead Software Developer  
+**AGCO Hungary Kft.**  
+*January 2022 – March 2023*
+
+Led a team of 4 developers, focusing on MES system enhancements and go-live support for global factories.
+
+#### Key Contributions:
+- Designed and developed core MES functionalities using **ASP.NET Core**.
+- Implemented **Azure DevOps pipelines** and automated testing processes.
+- Delivered POCs for advanced use cases with **Rust** and **Go**.
+
+---
+
+### Senior Software Developer  
+**AGCO Hungary Kft.**
+
+- Played a key role in the **greenfield implementation** of an MES for an engine factory, utilizing **ASP.NET Core** and **React**.
+- Developed and deployed an iOS-based **Meeting Room Management solution**, used globally across company sites.
+- Designed foundational MES architecture for scalability and reliability, supporting large-scale machine integrations.
+- Managed CI/CD pipelines and streamlined deployments.
+
+---
+
+### .Net Developer  
+**TcT Hungary Kft.**  
+*January 2017 – September 2017*
+
+Developed multi-platform time-tracking software with advanced **macOS development** using **MonoMac/Xamarin.Mac**, focusing on user activity tracking and interprocess communication.
+
+#### Key Contributions:
+- Designed websocket-based communication for real-time activity tracking.
+- Created browser extensions for capturing user data.
+- Handled debugging and performance optimization of cross-platform systems.
+
+---
+
+### .Net and Dynamics AX Developer  
+**XAPT Kft.**  
+*February 2015 – January 2017*  
+
+Worked on ERP systems, specializing in **SOAP/REST web services**, data migration, and system integration.
+
+#### Key Contributions:
+- Developed **WCF-based web services** for efficient communication with 3rd-party systems.
+- Designed SFTP-based file transfer mechanisms to automate data exchanges.
+- Conducted **R&D tasks** for Dynamics AX, improving workflows and reducing system latency.
+- Mentored new developers, ensuring rapid onboarding and knowledge transfer.
 
 
-## January 2022 – March 2023 
-### Lead Software Developer – AGCO Hungary Kft.   
+---
 
-Led a team of 2-3 developers and was responsible for MES solutions under development.
+### .Net Developer  
+**DataMagic Hungary Bt.**  
+*June 2012 – February 2015*
 
-#### Main Responsibilities:
-- Task delegation
-- Code reviews
-- Knowledge transfer
-- Assisting developers in daily work
-- Solution/software architecture
-- Further development of multiple MES solutions
-- Management of Azure DevOps pipelines
-- Designing and implementing new features
-- Supporting businesses with new developments and fixes
-- Rust and Go POCs: Developed proof-of-concept projects using **Rust** and **Go** to explore new technological solutions.
+Designed and built ERP modules, including **real estate management**, **inventory tracking**, and webshop integrations. Focused on **SOAP/REST communication** and database optimization.
 
-### Senior Software Developer – AGCO Hungary Kft.   
+#### Key Contributions:
+- Built material asset tracking systems, enabling accurate inventory management.
+- Designed real estate management modules with advanced search and reporting features.
+- Optimized database performance for large-scale ERP solutions.
+- Developed custom reporting tools for inventory and asset management.
 
-Developed multiple Manufacturing Execution Systems using **ASP .NET and ASP .NET Core**, and several mobile solutions using **XCode/Swift and Xamarin/.Net**.
+---
 
-#### Key Projects and Achievements:
-- **Greenfield Implementation of MES for New Engine Factory Hall:** Played a pivotal role in the development and deployment of a new MES system with machine integration using **ASP .NET and React**.
-- **Globally Used Meeting Room Management Solution:** Developed and deployed a wall-mounted meeting room manager app for iOS, actively used across multiple company sites.
-- **Azure DevOps Pipelines:** Co-created and managed Azure DevOps pipelines from start to finish.
-- **Foundation of MES Systems:** Designed and built the foundation of multiple **ASP .NET and .NET Core-based MES systems**.
-- **Support During Go-Live:** Supported the go-live of MES solutions, managing on-site stress and ensuring smooth operation with regular updates and new features.
+## SKILLS 
 
-## January 2017 – September 2017   
-### .Net Developer – TcT Hungary Kft.    
+### **Programming Languages:**
+- **Expert:** C#, .NET/.NET Core  
+- **Proficient:** Rust, Go, Swift/iOS, Java  
+- **Familiar:** JavaScript, Python  
 
-Developed a multi-platform application to track user work time and computer activity, including third-party program access.
+### **Development Practices:**
+- Agile software development (**SCRUM**)  
+- Continuous Integration/Continuous Deployment (**CI/CD**)  
 
-#### Main Tasks:
-- Work time management and user activity software
-  - Interprocess communication
-  - Data capture from browsers via extensions
-  - Websocket-based communication
-- macOS development with **MonoMac/Xamarin.Mac**
+### **Leadership and Management:**
+- **Team Leadership:** Directing and mentoring a team of 3-6 developers in agile and semi-agile environments.  
+- **Stakeholder Management:** Effectively communicating with stakeholders to translate business needs into technical solutions.  
+- **Decision Making:** Making critical decisions on software architecture and project direction.  
+- **Conflict Resolution:** Resolving conflicts and ensuring team cohesion to meet project goals.  
 
-## February 2015 – January 2017   
-### .Net and Dynamics AX Developer – XAPT Kft.    
+### **Tools and Technologies:**
+- **Version Control:** Azure DevOps, SVN, TFS, Mercurial, Git  
+- **CI/CD Pipelines:** Azure DevOps, TeamCity, TFS, Octopus Deploy  
+- **Containerization:** Docker  
+- **Message Queuing:** RabbitMQ  
 
-Developed and debugged ERP solutions, focusing on data migration, interfacing with 3rd parties, and mentoring new developers.
+### **Databases:**
+- **Relational Databases:** SQL Server, MySQL, SQLite  
+- **NoSQL Databases:** Familiar with MongoDB and Cassandra  
 
-#### Main Tasks:
-- Web service-based communication (**SOAP and REST**)
-- Data migration
-- SFTP and EDI based file transfer
-- TFS and AX synchronization
-- Web service development (**WCF**)
-- R&D tasks with **Dynamics AX**
+### **Frameworks and Libraries:**
+- Entity Framework, NHibernate  
+- ASP.NET/.NET Core WebAPI  
+- Tokio, Actix  
+- MVC, SignalR, WCF, ODATA, REST  
 
-## June 2012 – February 2015    
-### .Net Developer – DataMagic Hungary Bt.   
+### **Cloud and DevOps:**
+- Microsoft Azure  
+- Azure DevOps  
 
-Developed ERP systems with a focus on web service communication, data migration, and mentoring juniors.
 
-#### Main Tasks:
-- Web service-based communication (**SOAP/REST**)
-- Webshop interfacing
-- Data migration
-- Material asset and inventory management
-- Real estate management module development
-- Database handling and maintenance
+---
 
-# SKILLS    
-### Programming Languages:
-- **Expert:** C#, .Net/.Net Core
-- **Proficient:** Rust, Go, Swift/iOS, Java
-- **Familiar:** JavaScript, Python
+## EDUCATION    
 
-### Development Practices:
-- Agile software development (**SCRUM**)
-- Continuous Integration/Continuous Deployment (**CI/CD**)
+- **Software Developer** – Soter-Line Education Centre (2013-2014)  
+- **Software Engineering** – Eötvös Loránd University (2009-2011, incomplete)  
+- **High School Diploma** – Ganz Ábrahám Bilingual Secondary School  
 
-### Leadership and Management:
-- Team Leadership: Directing and mentoring small to medium-sized development teams in agile environments.
-- Stakeholder Management: Effectively communicating with stakeholders to translate business needs into technical solutions.
-- Decision Making: Making critical decisions on software architecture and project direction.
-- Conflict Resolution: Resolving conflicts and ensuring team cohesion to meet project goals.
+---
 
-### Tools and Technologies:
-- Version Control: **Azure DevOps, SVN, TFS, Mercurial, Git**
-- CI/CD Pipelines: **Azure DevOps, TeamCity, TFS, Octopus Deploy**
-- Containerization: **Docker**
-- Message Queuing: **RabbitMQ**
+## MISCELLANEOUS  
 
-### Databases:
-- **SQL Server, MySQL, SQLite**
-
-### Frameworks and Libraries:
-- **Entity Framework, NHibernate**
-- **ASP .Net/.Net Core WebAPI**
-- **Tokio, Actix**
-- **MVC, SignalR, WCF, ODATA, REST**
-
-### Cloud and DevOps:
-- **Microsoft Azure**
-- **Azure DevOps**
-
-# EDUCATION    
-### Soter-Line Education Centre    
-Software Developer (2013-2014) (2-year post-secondary/Associate's Degree)   
-
-### Eötvös Loránd University of Sciences    
-Software Engineering (2009-2011) (Did not graduate)   
-
-### Ganz Ábrahám Bilingual Secondary School   
-High School Diploma (2004-2009)    
-
-# MISCELLANEOUS   
-### Language skills:    
-- Fluent English (C1 Certificate – written and oral) (Euroexam, 2009)  
-- Finnish (A2)
-- Hungarian (Native)   
+- Fluent in **English** (C1 Certificate).  
+- Native **Hungarian**, beginner **Finnish**.  
