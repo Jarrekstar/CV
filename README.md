@@ -54,6 +54,7 @@ Grew and led a team of 3 developers, focusing on MES system enhancements and go-
 - Delivered POCs for advanced use cases with **Rust** and **Go**.
 - Continuously improved MES system performance and reliability.
 - Implemented new features for MES systems, including a complex **warehouse picking** solution and multiple **machine integrations**.
+  
 ---
 
 ### Senior Software Developer  
@@ -67,6 +68,7 @@ Grew and led a team of 3 developers, focusing on MES system enhancements and go-
 - Designed foundational MES architecture for scalability and reliability, supporting large-scale machine integrations.
 - Built and managed CI/CD pipelines and streamlined deployments enabling controlled and efficient releases.
 - Developed additional features to legacy **WinForms** MES systems, ensuring compatibility with new hardware and software.
+  
 ---
 
 ### .Net Developer  
@@ -159,4 +161,5 @@ Designed and built ERP modules, including **real estate management**, **inventor
 ## MISCELLANEOUS  
 
 - Fluent in **English** (C1 Certified).  
-- Native **Hungarian**, Elementary **Finnish**.  
+- Native **Hungarian**
+- Elementary **Finnish**.  
