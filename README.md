@@ -6,7 +6,7 @@ Budapest area, Hungary | Phone: +36 (70) 376-8901 | Email: zoltan.patyi.89@gmail
 
 ## Profile
 
-Results-driven **Technical Leader** with Strong **People Management Skills** with **12+ years** of experience leading teams and delivering innovative solutions for Manufacturing Execution Systems (MES), ERP, and cloud-ready applications. Proven ability to manage cross-functional teams, translate business needs into technical solutions, and implement cutting-edge technologies in global enterprise environments.
+Results-driven **Technical Leader** with Strong **People Management Skills** with **12+ years** of experience leading teams and delivering innovative solutions for Manufacturing Execution Systems (MES), ERP, and cloud-ready applications. Skilled in managing cross-functional teams, translating business needs into scalable technical solutions, and implementing cutting-edge technologies in global enterprise environments. Passionate about **balancing hands-on development with people leadership**, ensuring both technical excellence and team growth. Committed to continuous learning—staying at the forefront of technology while enhancing soft skills to drive innovation, efficiency, and team success.
 
 ---
 
@@ -54,7 +54,6 @@ Grew and led a team of 3 developers, focusing on MES system enhancements and go-
 - Delivered POCs for advanced use cases with **Rust** and **Go**.
 - Continuously improved MES system performance and reliability.
 - Implemented new features for MES systems, including a complex **warehouse picking** solution and multiple **machine integrations**.
-  
 ---
 
 ### Senior Software Developer  
@@ -68,7 +67,6 @@ Grew and led a team of 3 developers, focusing on MES system enhancements and go-
 - Designed foundational MES architecture for scalability and reliability, supporting large-scale machine integrations.
 - Built and managed CI/CD pipelines and streamlined deployments enabling controlled and efficient releases.
 - Developed additional features to legacy **WinForms** MES systems, ensuring compatibility with new hardware and software.
-  
 ---
 
 ### .Net Developer  
